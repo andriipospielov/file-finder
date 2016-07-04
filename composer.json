@@ -1,0 +1,16 @@
+{
+    "name": "andrei/filefinder.local",
+    "authors": [
+        {
+            "name": "Andrii",
+            "email": "andriypospielov@gmail.com"
+        }
+
+    ],
+    "require": {},
+    "autoload": {
+        "classmap": [
+            "app/classes"
+        ]
+    }
+}
